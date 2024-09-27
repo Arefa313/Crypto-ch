@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Cryptopanel/static/css/main.ec814d91.css",
-    "main.js": "/Cryptopanel/static/js/main.2ecc6cb2.js",
-    "index.html": "/Cryptopanel/index.html",
-    "main.ec814d91.css.map": "/Cryptopanel/static/css/main.ec814d91.css.map",
-    "main.2ecc6cb2.js.map": "/Cryptopanel/static/js/main.2ecc6cb2.js.map"
+    "main.css": "/Crypto-ch/static/css/main.ec814d91.css",
+    "main.js": "/Crypto-ch/static/js/main.2ecc6cb2.js",
+    "index.html": "/Crypto-ch/index.html",
+    "main.ec814d91.css.map": "/Crypto-ch/static/css/main.ec814d91.css.map",
+    "main.2ecc6cb2.js.map": "/Crypto-ch/static/js/main.2ecc6cb2.js.map"
   },
   "entrypoints": [
     "static/css/main.ec814d91.css",
