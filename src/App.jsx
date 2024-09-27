@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import './App.scss';
 import Show from './pages/Show';
 import Home from './pages/Home';
@@ -14,6 +14,7 @@ function App() {
       <main>
         <Routes>
           <Route path="/Cryptopanel/" element={<Home />} />
+          <Route path="*" element={<Navigate to="/Cryptopanel/" />} />
           <Route path="/Cryptopanel/:id" element={<Show />} />
         </Routes>
       </main>
